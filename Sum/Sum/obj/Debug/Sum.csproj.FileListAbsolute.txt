@@ -1,0 +1,6 @@
+c:\users\dinuka\documents\visual studio 2013\Projects\Sum\Sum\bin\Debug\Sum.exe.config
+c:\users\dinuka\documents\visual studio 2013\Projects\Sum\Sum\bin\Debug\Sum.exe
+c:\users\dinuka\documents\visual studio 2013\Projects\Sum\Sum\bin\Debug\Sum.pdb
+c:\users\dinuka\documents\visual studio 2013\Projects\Sum\Sum\obj\Debug\Sum.exe
+c:\users\dinuka\documents\visual studio 2013\Projects\Sum\Sum\obj\Debug\Sum.pdb
+C:\Users\Dinuka\Documents\Visual Studio 2013\Projects\Sum\Sum\obj\Debug\Sum.csprojResolveAssemblyReference.cache
